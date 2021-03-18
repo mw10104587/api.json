@@ -1,0 +1,19 @@
+{
+    "arts": [{
+        "id": 1,
+        "author": "Spencer",
+        "title": "Soft Wrap Gold"
+    }, {
+        "id": 2,
+        "author": "Spencer",
+        "title": "Ukiyoe Corgi Man"
+    }, {
+        "id": 3,
+        "author": "Jessie",
+        "title": "Infinite Corgi"
+    }, {
+        "id": 4,
+        "author": "Jessie",
+        "title": "Surprised Corgi"
+    }]
+}
